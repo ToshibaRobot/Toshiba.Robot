@@ -1,12 +1,12 @@
 <package>
 
-  <name>sr_scara_hx_moveit_config</name>
+  <name>toshiba_moveit_config</name>
   <version>0.3.0</version>
   <description>
      An automatically generated package with all the configuration and launch files for using the sr_scara_hx with the MoveIt! Motion Planning Framework
   </description>
-  <author email="sindhurakshak22@gmail.com">Sagnik Basu Choudhuri</author>
-  <maintainer email="sindhurakshak22@gmail.com">Sagnik Basu Choudhuri</maintainer>
+  <author email="jain.90avinash@gmail.com">Avinash</author>
+  <maintainer email="jain.90avinash@gmail.com">Avinash</maintainer>
 
   <license>BSD</license>
 

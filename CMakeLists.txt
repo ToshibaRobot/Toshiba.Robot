@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(sr_scara_hx_moveit_config)
+project(toshiba_moveit_config)
 
 find_package(catkin REQUIRED)
 
